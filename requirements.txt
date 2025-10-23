@@ -1,0 +1,13 @@
+numpy
+pandas
+peft
+ray
+torch
+transformers==4.51.1
+vllm
+#flash-attn
+hydra-core
+verl
+
+# python -m pip install -r requirements.txt
+# pip install flash-attn --no-build-isolation 
